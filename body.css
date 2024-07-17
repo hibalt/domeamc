@@ -28,7 +28,7 @@
   transition-duration: 0.5s;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/BODYCONTOURINGggg.jpg");
+  background-image: url("BODYCONTOURINGggg.jpg");
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -69,7 +69,7 @@
   --animation-custom_in-scale: 0.3;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/BODYCONTOURING.jpg");
+  background-image: url("BODYCONTOURING.jpg");
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -111,7 +111,7 @@
   --animation-custom_in-scale: 0.3;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/LASERHAIRREMOVA.jpg");
+  background-image: url("LASERHAIRREMOVA.jpg");
 }
 
 .u-section-1 .u-container-layout-3 {
@@ -153,7 +153,7 @@
   --animation-custom_in-scale: 0.3;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/soft.jpg");
+  background-image: url("soft.jpg");
 }
 
 .u-section-1 .u-container-layout-4 {
@@ -195,7 +195,7 @@
   --animation-custom_in-scale: 0.3;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/CARBONICLASER.jpg");
+  background-image: url("CARBONICLASER.jpg");
 }
 
 .u-section-1 .u-container-layout-5 {
@@ -237,7 +237,7 @@
   --animation-custom_in-scale: 0.3;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/fatdissolvinginjection.jpg");
+  background-image: url("fatdissolvinginjection.jpg");
 }
 
 .u-section-1 .u-container-layout-6 {
@@ -279,7 +279,7 @@
   --animation-custom_in-scale: 0.3;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/CHIROPRACTORY.jpg");
+  background-image: url("CHIROPRACTORY.jpg");
   background-position: 50% 50%;
 }
 
@@ -322,7 +322,7 @@
   --animation-custom_in-scale: 0.3;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/CHIROPRACTORYYY.jpg");
+  background-image: url("CHIROPRACTORYYY.jpg");
   background-position: 50% 50%;
 }
 
@@ -365,7 +365,7 @@
   --animation-custom_in-scale: 0.3;
   --radius: 35px;
   box-shadow: 0px -2px 8px 0px rgba(14,119,103,1);
-  background-image: url("images/CHIROPRACTORYM.jpg");
+  background-image: url("CHIROPRACTORYM.jpg");
   background-position: 50% 50%;
 }
 
